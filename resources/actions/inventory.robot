@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation    Suite description
-Library          SeleniumLibrary    # Temporário para usar as funções
+# Library          SeleniumLibrary    # Temporário para usar as funções
 
 *** Keywords ***
 Acesso o menu e reseto o estado do site [Broken]
