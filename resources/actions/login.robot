@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation    Mappíng of actions in login page
-# Library          SeleniumLibrary    # Temporário para usar as funções
+Library          SeleniumLibrary    # Temporário para usar as funções
 
 *** Keywords ***
 Preencho login e senha e realizo o login
